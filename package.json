@@ -1,0 +1,19 @@
+{
+  "name": "awesome-cpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "docsify serve ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tidys/awesome-cpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tidys/awesome-cpm/issues"
+  },
+  "homepage": "https://github.com/tidys/awesome-cpm#readme"
+}
